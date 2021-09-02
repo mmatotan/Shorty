@@ -1,4 +1,4 @@
-# ShortyV2
+# Shorty
 Shorty is a simple REST API url shortener
 
 To start the server, navigate to the downloaded folder and run this command:
