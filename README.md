@@ -1,6 +1,8 @@
 # Shorty
-Shorty is a simple REST API url shortener
+## About
+Shorty is a simple REST API url shortener made using the Spring framework.
 
+## Description
 To start the server, navigate to the downloaded folder and run this command:
 java -jar ShortyV2-0.0.1-SNAPSHOT.jar {serverIp} {--server.port=serverPort}
 where objects inside {} braces are optional. For example you could run:
